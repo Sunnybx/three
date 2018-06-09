@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\硕士研究论文文献\动态三维测量\3\3\3\main.cpp(57): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+e:\硕士研究论文文献\动态三维测量\3\3\3\main.cpp(59): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+e:\硕士研究论文文献\动态三维测量\3\3\3\main.cpp(40): warning C4101: “center”: 未引用的局部变量
+  3.vcxproj -> E:\硕士研究论文文献\动态三维测量\3\3\Debug\3.exe
